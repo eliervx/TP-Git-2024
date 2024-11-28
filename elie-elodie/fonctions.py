@@ -14,12 +14,8 @@ def noms_binome():
     Affiche les noms des membres du binôme
     Attention, chacun écrit la ligne pour afficher son nom
     """
-<<<<<<< HEAD
-    print("elodie")
-
-=======
+    print("Elodie")
     print("Elie")
->>>>>>> fa3d719 (Ajout de mon nom dans fonction)
 
 a = 2
 b = 1
